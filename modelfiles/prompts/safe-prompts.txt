@@ -1,0 +1,5 @@
+What is DevSecOps?
+
+Explain CI/CD pipeline
+
+What is OWASP Top 10?
